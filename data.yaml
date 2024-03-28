@@ -1,0 +1,9 @@
+
+train: C:\\Users\\moizh\\Desktop\\MLtest\\split\\train
+val:  C:\\Users\\moizh\\Desktop\\MLtest\\split\\test
+
+# number of classes
+nc: 10
+
+# class names
+names: ['sunglass','hat','jacket','shirt','pants','shorts','skirt','dress','bag','shoe']
